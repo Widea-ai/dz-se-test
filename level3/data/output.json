@@ -1,0 +1,1 @@
+{"rentals": [{"id": 1, "price": 1000, "commission": {"insurance_fee": 150.0, "assistance_fee": 0, "drivy_fee": 150.0}}, {"id": 2, "price": 5000, "commission": {"insurance_fee": 750.0, "assistance_fee": 1, "drivy_fee": 749.0}}, {"id": 3, "price": 29800.0, "commission": {"insurance_fee": 4470.0, "assistance_fee": 11, "drivy_fee": 4459.0}}]}
